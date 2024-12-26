@@ -166,4 +166,5 @@ sumo
 outputs
 *.pth
 *_env.ipynb
-*copy.ipynb
+*.ipynb
+*.csv
