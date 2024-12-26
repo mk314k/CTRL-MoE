@@ -163,3 +163,8 @@ cython_debug/
 
 *_env
 sumo
+outputs
+*.pth
+*_env.ipynb
+*.ipynb
+*.csv
